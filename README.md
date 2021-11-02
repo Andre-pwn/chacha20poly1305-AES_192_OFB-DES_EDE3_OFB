@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is a totally not complex cypher tester on files
+This is a totally not complex cypher tester on files (actually implemented only chacha20poly1305, AES_192_OFB and DES_EDE3_OFB)
 
 ## Installation
 
